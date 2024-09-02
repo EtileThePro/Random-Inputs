@@ -1,0 +1,4 @@
+INSTALL THESE THINGS
+1.pip install pyautogui
+2.pip install gtts
+3.pip install keyboard
